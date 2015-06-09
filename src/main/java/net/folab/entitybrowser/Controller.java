@@ -18,7 +18,7 @@ public final class Controller {
      *
      * @return instance of this class. It's always same instance.
      */
-    public synchronized static Controller getInstance() {
+    public static Controller getInstance() {
         return INSTANCE;
     }
 
