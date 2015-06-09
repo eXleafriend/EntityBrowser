@@ -6,7 +6,7 @@ package net.folab.entitybrowser;
  *
  * @author leafriend
  */
-public class Controller {
+public final class Controller {
 
     /**
      * Instance of this class. This is a part of singleton pattern.
